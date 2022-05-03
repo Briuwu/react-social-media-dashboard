@@ -1,0 +1,30 @@
+[
+  {
+    "alt": "Facebook",
+    "user": "@nathanf",
+    "followers": "1987",
+    "additional": "12",
+    "isDown": false
+  },
+  {
+    "alt": "Twitter",
+    "user": "@nathanf",
+    "followers": "1044",
+    "additional": "99",
+    "isDown": false
+  },
+  {
+    "alt": "Instagram",
+    "user": "@realnathanf",
+    "followers": "11k",
+    "additional": "1099",
+    "isDown": false
+  },
+  {
+    "alt": "Youtube",
+    "user": "@Nathan F.",
+    "followers": "8239",
+    "additional": "144",
+    "isDown": true
+  }
+]

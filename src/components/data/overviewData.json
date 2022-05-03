@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Page Views",
+    "numbers": "87",
+    "additional": "3",
+    "isDown": false
+  },
+  {
+    "title": "Likes",
+    "numbers": "52",
+    "additional": "2",
+    "isDown": true
+  },
+  {
+    "title": "Likes",
+    "numbers": "5462",
+    "additional": "2257",
+    "isDown": false
+  },
+  {
+    "title": "Profile Views",
+    "numbers": "52k",
+    "additional": "1375",
+    "isDown": false
+  },
+  {
+    "title": "Retweets",
+    "numbers": "117",
+    "additional": "303",
+    "isDown": false
+  },
+  {
+    "title": "Likes",
+    "numbers": "507",
+    "additional": "553",
+    "isDown": true
+  },
+  {
+    "title": "Likes",
+    "numbers": "107",
+    "additional": "10",
+    "isDown": true
+  },
+  {
+    "title": "Total Views",
+    "numbers": "1407",
+    "additional": "12",
+    "isDown": true
+  }
+]

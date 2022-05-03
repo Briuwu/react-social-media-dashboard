@@ -1,0 +1,47 @@
+.overview {
+  font-size: $fz;
+  color: $dark-light-text;
+  padding: 1em;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  
+
+  &-title {
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+  }
+
+  &-desc {
+    border-radius: 0.5em;
+    background-color: $dark-card-bg;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    align-items: center;
+
+    padding: 1.5em;
+  }
+
+  &-name {
+    color: $dark-blue-text;
+  }
+
+  &-icon {
+    text-align: right;
+  }
+
+  &-numbers {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+
+  &-additional {
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+    justify-content: flex-end;
+    color: $lime-green;
+  }
+}
