@@ -75,7 +75,8 @@ input:checked + .slider:before {
   border-bottom: 1px solid $dark-card-bg;
 
   &-title {
-    font-weight: 400;
+    font-weight: 700;
+    color: $dark-light-text;
   }
 
   &-total {
@@ -89,6 +90,10 @@ input:checked + .slider:before {
   
   .dashboard {
     color: $light-dark-text;
+
+    &-title {
+      color: $light-dark-text;
+    }
 
     &-total {
       color: $light-blue-text;

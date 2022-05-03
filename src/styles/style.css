@@ -171,7 +171,8 @@ input:checked + .slider:before {
 }
 
 .dashboard-title {
-  font-weight: 400;
+  font-weight: 700;
+  color: white;
 }
 
 .dashboard-total {
@@ -183,6 +184,10 @@ input:checked + .slider:before {
 }
 
 .header.Light .dashboard {
+  color: #1e202a;
+}
+
+.header.Light .dashboard-title {
   color: #1e202a;
 }
 
@@ -215,8 +220,9 @@ input:checked + .slider:before {
 }
 
 .overview-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5em;
+  font-weight: 700;
 }
 
 .overview-desc {
@@ -304,7 +310,7 @@ input:checked + .slider:before {
 }
 
 .social-followers h2 {
-  font-size: 3.5rem;
+  font-size: 3rem;
   color: white;
 }
 
