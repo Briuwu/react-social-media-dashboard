@@ -32,7 +32,7 @@ function Overview({toggle}) {
             <p className='overview-numbers'>{item.numbers}</p>
             <div className={`overview-additional ${item.isDown ? "down" : ""}`}>
               {item.isDown ? <IconDown /> : <IconUp />}
-              <p>{item.additional}%</p>
+              <span>{item.additional}%</span>
             </div>
           </div>
         )

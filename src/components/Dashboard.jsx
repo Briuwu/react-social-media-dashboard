@@ -12,11 +12,11 @@ function Dashboard() {
       document.body.classList.remove('Light')
   }
   return (
-    <>
+    <main>
       <Navbar toggle={toggle} handleChange={(e) => handleChange(e)} />
       <Social toggle={toggle} />
       <Overview toggle={toggle} />
-    </>
+    </main>
   )
 }
 

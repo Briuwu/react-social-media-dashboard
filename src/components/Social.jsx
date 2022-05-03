@@ -46,7 +46,7 @@ function Social({toggle}) {
 
             <div className={`social-additional ${item.isDown ? "down" : ""}`}>
               {item.isDown ? <IconDown /> : <IconUp />}
-              <p>{item.additional} Today</p>
+              <span>{item.additional} Today</span>
             </div>
           </motion.div>
         )
