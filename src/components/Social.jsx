@@ -32,7 +32,6 @@ function Social({toggle}) {
             variants={variants}
             whileHover={toggle === "Dark" ? 'hover' : 'hoverLight'}
             whileTap={'tap'}
-            key={item.alt} 
             className={`social-each ${toggle} ${item.alt}`}
           >
             <div className='social-title'>

@@ -12,7 +12,7 @@ function Navbar({toggle, handleChange}) {
       </div>
       <div className="toggle">
         <p className='toggle-mode'>{toggle} Mode</p>
-        <label className="switch">
+        <label aria-label='switch' className="switch">
           <input type="checkbox" onChange={handleChange} />
           <span className="slider round"></span>
         </label>
