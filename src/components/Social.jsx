@@ -13,7 +13,7 @@ import {ReactComponent as Youtube} from './images/icon-youtube.svg'
 const SocialLogos = [
   <Facebook />,
   <Twitter />,
-  <Instagram id='1' />,
+  <Instagram />,
   <Youtube />
 ]
 

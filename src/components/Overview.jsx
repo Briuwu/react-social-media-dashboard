@@ -14,8 +14,8 @@ const SocialLogos = [
   <Facebook />,
   <Twitter />,
   <Twitter />,
-  <Instagram id='2' />,
-  <Instagram id='3' />,
+  <Instagram />,
+  <Instagram />,
   <Youtube />,
   <Youtube />
 ]
