@@ -14,8 +14,10 @@ function Dashboard() {
   return (
     <main>
       <Navbar toggle={toggle} handleChange={(e) => handleChange(e)} />
-      <Social toggle={toggle} />
-      <Overview toggle={toggle} />
+      <div className='container'>
+        <Social toggle={toggle} />
+        <Overview toggle={toggle} />
+      </div>
     </main>
   )
 }
