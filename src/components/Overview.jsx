@@ -6,7 +6,8 @@ import {ReactComponent as IconDown} from './images/icon-down.svg'
 
 import {ReactComponent as Facebook} from './images/icon-facebook.svg'
 import {ReactComponent as Twitter} from './images/icon-twitter.svg'
-import {ReactComponent as Instagram} from './images/icon-instagram.svg'
+import {ReactComponent as Instagram2} from './images/icon-instagram-2.svg'
+import {ReactComponent as Instagram3} from './images/icon-instagram-3.svg'
 import {ReactComponent as Youtube} from './images/icon-youtube.svg'
 
 const SocialLogos = [
@@ -14,8 +15,8 @@ const SocialLogos = [
   <Facebook />,
   <Twitter />,
   <Twitter />,
-  <Instagram />,
-  <Instagram />,
+  <Instagram2 />,
+  <Instagram3 />,
   <Youtube />,
   <Youtube />
 ]
